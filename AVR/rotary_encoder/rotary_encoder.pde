@@ -1,7 +1,7 @@
 /**
  * A simple incremental Rotary Encoder decoder example
  * andrew@rocketnumbernine.com
- * http://www.rocketnumbernine.com/2010/03/03/decoding-a-rotary-encoder/
+ * http://www.rocketnumbernine.com/2010/03/06/decoding-a-rotary-encoder/
  * use freely
 */
 #include <util/delay.h>
