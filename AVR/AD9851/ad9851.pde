@@ -1,5 +1,6 @@
 /* 
  * A simple AD9851 Arduino script - non SPI version
+ * see http://www.rocketnumbernine.com/2011/10/25/programming-the-ad9851-dds-synthesizer
  * Andrew Smallbone <andrew@rocketnumbernine.com>
  * Use freely.
  */
